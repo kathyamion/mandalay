@@ -27,9 +27,9 @@
     // DB connection info
     //TODO: Update the values for $host, $user, $pwd, and $db
     //using the values you retrieved earlier from the portal.
-    $host = 'localhost';
-    $user = 'mandalay';
-    $pwd = 'mandalay';
+    $host = 'ap-cdbr-azure-southeast-a.cloudapp.net';
+    $user = 'b33937d581a3fe';
+    $pwd = '24bcf73e';
     $db = 'mandalaydb';
     // Connect to database.
     try {
