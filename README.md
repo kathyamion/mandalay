@@ -1,0 +1,4 @@
+mandalay
+========
+
+Mandalay Repository
